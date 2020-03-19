@@ -4,6 +4,7 @@ authors = ["Dominik Straub <dominikstraub@yahoo.com>"]
 version = "0.1.0"
 
 [deps]
+Conda = "8f4d0f93-b110-5947-807f-2305c1781a2d"
 Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
 Interact = "c601a237-2ae4-5e1e-952c-7a85b0c7eef1"
 LaTeXStrings = "b964fa9f-0449-5b57-a5c2-d3ea65f4040f"
